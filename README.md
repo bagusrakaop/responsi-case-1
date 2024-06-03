@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : Bagus Rakadyanto Oktavianto Putra / 
-NIU : 474401 /
-Sesi : Senin Pagi / 
-Secret String : bdd6e564d1ff1758c1cbce4b2d0405b8c5301dbfa4951cc33908f3923337e7c620240603004918 /
+Nama : Bagus Rakadyanto Oktavianto Putra \\ 
+NIU : 474401 \\
+Sesi : Senin Pagi \\ 
+Secret String : bdd6e564d1ff1758c1cbce4b2d0405b8c5301dbfa4951cc33908f3923337e7c620240603004918 \\
 
 ## Checklist Responsi
 
